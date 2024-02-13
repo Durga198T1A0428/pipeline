@@ -4,7 +4,7 @@ node('built-in')
 {
     stage('continuous downloading')
     {
-        git 'https://github.com/intelliqittrainings/maven.git'
+        git 'https://github.com/Durga198T1A0428/pipeline.git'
     
     }
     stage('continuous build')
